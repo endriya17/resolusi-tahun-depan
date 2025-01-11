@@ -1,0 +1,7 @@
+Halo saya Atom Techno dari semarang saya pengen mebuat device IoT
+Resolusi saya:
+-menggunakan sensor berbasis AI
+-menghubungkan sensor dengan alat industri yang sudah ada
+-membuat program komunikasi antar device
+-membuat integrasi yang lebih sederhana dan low cost
+-membuat effisiensi alur kerja proses antar device

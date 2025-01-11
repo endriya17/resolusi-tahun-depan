@@ -13,7 +13,9 @@ Sensor Ultrasonik adalah komponen utama untuk sensor penentuan jarak
 -Getaran
 -Berat benda
 -tegangan
+Sensor Tegangan adalah sensor yang berfungsi untuk membaca nilai tegangan listrik
 -Arus
+Sensor Arus merupakan sensor yang berfungsi membaca nilai aliran arus listrik
 -Frekuensi
 Sensor frekuensi digunkan untuk mengetahui nilai frekuensi listrik
 -Jarak
